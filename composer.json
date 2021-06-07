@@ -11,7 +11,7 @@
     },
     "require": {
         "buepro/typo3-pizpalue": "~11.0",
-        "helhum/typo3-console": "^6.5",
+        "helhum/typo3-console": "6.2.0",
         "roave/security-advisories": "dev-master",
         "typo3-console/composer-auto-commands": "^0.4",
         "typo3/cms-adminpanel": "^10.4",
