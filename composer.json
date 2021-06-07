@@ -38,7 +38,7 @@
     },
 	"scripts":{
 		"typo3-cms-scripts": [
-			"typo3cms install:setup"
+			"typo3cms install:setup -vvv"
 		],
 		"post-autoload-dump": [
 			"@typo3-cms-scripts"
